@@ -1,2 +1,2 @@
 # jogo-da-velha
- Jogo da velha desenvolvida com HTML, CSS e JAVASCRIPT
+ Jogo da velha desenvolvido com HTML, CSS e JAVASCRIPT.
